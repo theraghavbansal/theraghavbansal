@@ -1,1 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&pause=1000&color=373A4B&width=435&lines=Raghav+Bansal;MERN+Stack+Developer;Gen+AI+Learner;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theraghavbansal&show_icons=true)
