@@ -22,11 +22,3 @@ Software Developer • AI Enthusiast • Cybersecurity • Building AI Products
 - 🎯 Goal: Build an AI SaaS Startup
 
 
-<p align="center">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=theraghavbansal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=theraghav&theme=tokyonight&hide_border=true"/>
-</p>
