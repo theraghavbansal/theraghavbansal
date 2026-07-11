@@ -21,4 +21,9 @@ Software Developer • AI Enthusiast • Cybersecurity • Building AI Products
 - 🚀 Building projects every week
 - 🎯 Goal: Build an AI SaaS Startup
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
