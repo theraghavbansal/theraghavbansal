@@ -16,10 +16,10 @@ Software Developer • AI Enthusiast • Cybersecurity • Building AI Products
 
 - 💻 Currently learning **MERN Stack**
 - 🤖 Passionate about **Artificial, Augmented Intelligence**
-- 🔐 Google Foundations of Cybersecurity Certified
+- Explorign fields of cybersecurity
 - 🌱 Exploring Backend Development and LLM APIs
 - 🚀 Building projects every week
-- 🎯 Goal: Build an AI SaaS Startup
+
 
 ## 🐍 Contribution Snake
 
