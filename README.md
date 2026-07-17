@@ -14,7 +14,7 @@ Software Developer • AI Enthusiast • Cybersecurity • Building AI Products
 
 ## 🚀 About Me
 
-- 💻 Currently learning **MERN Stack**
+- 💻 Currently learning **Full Stack Development**
 - 🤖 Passionate about **Artificial, Augmented Intelligence**
 - Explorign fields of cybersecurity
 - 🌱 Exploring Backend Development and LLM APIs
